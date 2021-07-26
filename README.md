@@ -29,4 +29,6 @@ Here are some ideas to get you started:
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liuhll&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/liuhll/liuhll)
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liuhll&repo=silky)](https://github.com/liuhll/silky)
+-->
