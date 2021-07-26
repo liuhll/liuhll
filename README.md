@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Liuhll
+# Hi there 👋, I'm Liuhll
 
 <!--
 **liuhll/liuhll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=liuhll.liuhll)
+[<img alt="github" src="https://img.shields.io/badge/github-liuhll-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20">](https://github.com/liuhll)
 
 # ⚡ Favorite languages and tools
 
